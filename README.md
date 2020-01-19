@@ -16,7 +16,8 @@ Aprendendo na prática.
 - [x] Pegar um projeto existente
 - [x] Resolver algum problema, fora da timeline master
 
-- [ ] Voltar algum arquivo para um determinado momento
+- [x] Voltar algum arquivo para um determinado momento
+- [x] Recuperar arquivo deletado
 
 - `git init` > inicia timeline
 - `git add `> adiciona ou atualiza as mudanças da linha do tmpo
